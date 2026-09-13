@@ -1,16 +1,14 @@
-## Hi there 👋
+### Sayantan Roy
+**Senior Frontend Engineer** · 5+ years building enterprise-grade web products
 
-<!--
-**Noob0799/Noob0799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend engineer at Workspot, where I've spent five years as sole UI owner for a
+cloud-PC management platform serving 130+ enterprise customers across AWS, Azure, GCP,
+and Akamai. Most recently, I was part of the founding team building a desktop app —
+built on Electron and a VS Code fork — that lets users automate workflows on their
+desktop using AI.
 
-Here are some ideas to get you started:
+**Core stack:** JavaScript (ES6+), TypeScript, React, Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring my next role — open to Senior Frontend opportunities.
+
+📫 roysayantan1999@gmail.com · [LinkedIn](https://www.linkedin.com/in/sayantan-roy-390276185/)
