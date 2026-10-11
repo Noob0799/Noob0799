@@ -12,6 +12,6 @@ logic and UI — as sole frontend engineer on a 3-person team. It ships today as
 desktop app, wrapping this client in an Electron / VS Code-fork shell, and lets users
 automate desktop workflows using computer-use AI models.
 
-**Core stack:** React, TypeScript, JavaScript (ES6+), Node.js
+**Core stack:** React, TypeScript, JavaScript (ES6+), Next.js, Node.js
 
 📫 roysayantan1999@gmail.com · [LinkedIn](https://www.linkedin.com/in/sayantan-roy-390276185/)
